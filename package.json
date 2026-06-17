@@ -1,0 +1,29 @@
+{
+  "name": "meet-day-planner",
+  "version": "1.0.0",
+  "description": "A React app for powerlifting meet day planning - generates attempts, warmup progressions, and plate loadings based on goal weights",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "powerlifting",
+    "strength-training",
+    "meet-day",
+    "calculator",
+    "warmup",
+    "attempts"
+  ],
+  "author": "Alexx",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.4.0"
+  }
+}
